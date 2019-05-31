@@ -8,6 +8,11 @@ body{
 }
 
 
+header div  .sl{
+width:845px;
+height:100px;
+}
+
 header, .main, footer{
 	background:white;
 	width:90%;
@@ -51,11 +56,31 @@ header nav ul li a:hover{
 	margin-bottom: 20px;
 }
 
+.main .articulos article img{
+	width: 600px;
+	margin: auto;
+	border-radius: 7%;
+	padding: 20px;
+	display: block;
+	align-items: center;
+
+}
+
 aside{
 	width: 30%;
 	background: #ff8000;
 	float: left;
 	padding: 20px;
+	box-sizing: border-box;
+	text-align: justify;
+}
+
+ .l3{
+	/*width: 30%;*/
+	background: #fff;
+	float: left;
+	padding: 20px;*/
+	overflow: hidden;
 	box-sizing: border-box;
 }
 
