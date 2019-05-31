@@ -22,7 +22,7 @@ header, .main, footer{
 }
 
 header nav{
-	background:#528FD5;
+	background:#F98103;
 	overflow: hidden;
 }
 
@@ -41,7 +41,7 @@ header nav ul li a{
 }
 
 header nav ul li a:hover{
-	background: #75ACEC;
+	background: #D67A19;
 }
 
 .main .articulos{
@@ -68,7 +68,7 @@ header nav ul li a:hover{
 
 aside{
 	width: 30%;
-	background: #ff8000;
+	background: rgba(255, 160, 122, 0.5);
 	float: left;
 	padding: 20px;
 	box-sizing: border-box;
